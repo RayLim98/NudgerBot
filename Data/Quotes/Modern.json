@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Elon Musk",
+    "qoute": "When something is important enough, you do it even if the odds are not in your favor"
+  },
+  {
+    "id": 2,
+    "name": "Albert Einstein",
+    "qoute": "Imagination is more imporant than knowledge"
+  },
+  {
+    "id": 3,
+    "name": "Raymond Lim",
+    "qoute": "For he who does not eat - becomes hungry"
+  }
+]
